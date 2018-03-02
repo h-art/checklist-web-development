@@ -5,7 +5,8 @@ Kickoff and GoLive Checklist
 ## Table of Contents
 
 1. **[KICKOFF CHECKLIST](#kickoff-checklist)**
-2. **[GOLIVE CHECKLIST](#golive-checklist)**
+2. **[FILES MANAGEMENT](#files-mangement)**
+3. **[GOLIVE CHECKLIST](#golive-checklist)**
 
 
 ## KICKOFF CHECKLIST
@@ -17,6 +18,12 @@ Kickoff and GoLive Checklist
 > * [ ] Define and have clear ideas about "special" HTML5 features and check it with [https://caniuse.com/](https://caniuse.com/)
 * [ ] Check and confirm server requirements
 > * [ ] Does the server need to send e-mail messages? From which address?
+
+## FILES MANAGEMENT
+
+* [ ] Check and confirm the Files Management list (PSD, documents, images, videos etc.)
+> * [ ] Define where files are stored
+> * [ ] Define an order with which the files are organized
 
 ## GOLIVE CHECKLIST
 
