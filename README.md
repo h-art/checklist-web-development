@@ -15,7 +15,8 @@ Kickoff and GoLive Checklist
 > * [ ] Define and have clear ideas about different screensize (how many  breakpoint etc)
 > * [ ] Define and have clear ideas about graceful degradation and the approach about OLD browser accepted
 > * [ ] Define and have clear ideas about "special" HTML5 features and check it with [https://caniuse.com/](https://caniuse.com/)
-* [ ] 
+* [ ] Check and confirm server requirements
+> * [ ] Does the server need to send e-mail messages? From which address?
 
 ## GOLIVE CHECKLIST
 
