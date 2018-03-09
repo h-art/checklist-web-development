@@ -31,5 +31,4 @@ Kickoff and GoLive Checklist
 > * [ ] 404 page (not found page)
 > * [ ] 500 page (error page)
 > * [ ] 503 page (maintenance page)
-
-
+> * [ ] maintenance mode (Drupal / Wordpress)
