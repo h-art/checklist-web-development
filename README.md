@@ -32,3 +32,9 @@ Kickoff and GoLive Checklist
 > * [ ] 500 page (error page)
 > * [ ] 503 page (maintenance page)
 > * [ ] maintenance mode (Drupal / Wordpress)
+
+* [ ] Analytics
+> * [ ] Do you have setup your Analytics code?
+> * [ ] Track PageView (each page has pageview, and if you have a sort of SPA, do you trigger the right avent when you change the URL?)
+> * [ ] Do you track all events needed?
+
