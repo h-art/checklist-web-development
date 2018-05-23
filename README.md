@@ -4,15 +4,21 @@ Kickoff and GoLive Checklist
 
 ## Table of Contents
 
-1. **[KICKOFF CHECKLIST](#kickoff-checklist)**
-2. **[FILES MANAGEMENT](#files-mangement)**
-3. **[GOLIVE CHECKLIST](#golive-checklist)**
+1. **[TOOLS CHECKLIST](#tools-checklist)**
+2. **[KICKOFF CHECKLIST](#kickoff-checklist)**
+3. **[FILES MANAGEMENT](#files-mangement)**
+4. **[GOLIVE CHECKLIST](#golive-checklist)**
 
+
+## TOOLS CHECKLIST
+
+* [ ] Setup for:
+> * [ ] SLACK channel
+> * [ ] JIRA Project
+> * [ ] GIT Repository
 
 ## KICKOFF CHECKLIST
 
-* [ ] Check and confirm the Browser Compatibility List
-> * [ ] Read [Compatibility List](https://github.com/h-art/browser-compatibility/blob/master/list.md)
 > * [ ] Define and have clear ideas about different screensize (how many  breakpoint etc)
 > * [ ] Define and have clear ideas about graceful degradation and the approach about OLD browser accepted
 > * [ ] Define and have clear ideas about "special" HTML5 features and check it with [https://caniuse.com/](https://caniuse.com/)
